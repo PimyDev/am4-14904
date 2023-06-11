@@ -1,1 +1,1 @@
-Fork of aiogram3 b6 with stickers fix
+Fork of aiogram3 b4 with stickers fix
